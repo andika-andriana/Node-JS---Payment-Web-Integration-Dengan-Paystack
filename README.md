@@ -1,5 +1,3 @@
-# files
-
 ![files/NodeJS.png](files/NodeJS.png)
 
 # Node JS - Payment Web Integration Dengan Paystack
